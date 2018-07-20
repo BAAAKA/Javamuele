@@ -3,8 +3,8 @@ package muele;
 public class starterMuele {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		guiMuele gm=new guiMuele();
+		
 	}
 
 }
